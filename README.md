@@ -39,7 +39,7 @@ Missions can be done in any order.
   - Make sure Air System is up and *all* rooms are unlocked
   - Find Engineer’s location
   - Talk to engineer to check if is out!
-  - Finally confirm escape status thanks to very convenient command provided by Space Station Team: checkEscapeStatus :wink:
+  - Finally confirm escape status thanks to very convenient command provided by Space Station Team: ``checkEscapeStatus`` :wink:
 
 ## Rules of the Workshop 
 
