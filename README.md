@@ -60,6 +60,8 @@ Participants will be splitted into 2 teams: **Team Probe** and **Team Display** 
 **Additional requirements are the following:**
 - F# and Fable installed
 
+**Tip:**: user [fable samples](https://github.com/fable-compiler/fable2-samples) to get samples.
+
 **important:** 
   - The address and creadentials for  game server will be given when workshop starts.
 
