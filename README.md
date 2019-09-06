@@ -1,5 +1,5 @@
 # Space Station 2019. 
-A FableConf workshop by François Nicaise/@thewhitetigle
+A FableConf workshop by [François Nicaise/@thewhitetigle](https://twitter.com/thewhitetigle)
 
 ## Story
 
