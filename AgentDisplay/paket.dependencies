@@ -1,0 +1,23 @@
+source https://nuget.org/api/v2
+storage:none
+
+
+nuget Fable.React
+nuget Fable.Core 
+nuget Fable.Fetch
+nuget Fable.Promise
+nuget Fable.Date
+nuget Fable.Browser.Dom
+nuget Fable.Browser.WebStorage
+nuget Thoth.Json
+
+nuget Fulma.Elmish
+nuget Fable.Elmish
+nuget Fable.Elmish.Browser
+nuget Fable.Elmish.Debugger
+nuget Fable.Elmish.React
+nuget Fable.Elmish.HMR
+
+nuget Fulma
+nuget Fable.FontAwesome
+nuget Fable.FontAwesome.Free

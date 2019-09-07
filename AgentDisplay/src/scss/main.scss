@@ -1,0 +1,19 @@
+// ******************************************************* Bulma ****************************************************
+@charset "utf-8";
+$fa-font-path: "./../../node_modules/@fortawesome/fontawesome-free/webfonts";
+
+@import './../../node_modules/@fortawesome/fontawesome-free/scss/fontawesome';
+@import './../../node_modules/@fortawesome/fontawesome-free/scss/solid';
+@import './../../node_modules/@fortawesome/fontawesome-free/scss/regular';
+@import './../../node_modules/@fortawesome/fontawesome-free/scss/brands';
+@import "../../node_modules/bulma/sass/utilities/initial-variables";
+@import "../../node_modules/bulma/sass/utilities/functions";
+@import "../../node_modules/bulma/sass/utilities/derived-variables";
+
+@import "../../node_modules/bulma/bulma";
+
+body {
+  margin:0;
+  padding:0;
+}
+
