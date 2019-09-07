@@ -6,7 +6,7 @@ open Fable.Core.JsInterop
 open Types
 
 [<Literal>]
-let serverURL = "https://27ecf629.eu-gb.apiconnect.appdomain.cloud/e5e446f5-cfc8-45ca-ba6b-322ef492c090/spacestation2019"
+let serverURL = "xxx"
 
 [<Literal>]
 let serviceToken = "xxx"

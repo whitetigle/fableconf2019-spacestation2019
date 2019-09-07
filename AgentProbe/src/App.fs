@@ -10,7 +10,7 @@ Node.Api.``global``?fetch <- import "*" "node-fetch"
 
 type Pong = {Pong:string}
 
-let url = "https://27ecf629.eu-gb.apiconnect.appdomain.cloud/e5e446f5-cfc8-45ca-ba6b-322ef492c090/spacestation2019"
+let url = "xxx"
 let serviceToken = "xxx"
 let gameKey = "xxx"
 
