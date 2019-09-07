@@ -55,7 +55,9 @@ Participants will be splitted into teams of two or more peoples (one player is a
 
 **Requirements**: use Fable (curl or postman are way too easy and obviously you want to learn a thing or 2)
 
-**Tip:**: check [fable samples](https://github.com/fable-compiler/fable2-samples).
+**Tip:**: 
+  - check [fable samples](https://github.com/fable-compiler/fable2-samples).
+  - check `Agentprobe` subfolder for a ready to go Elmish+React client
   
 
 #### Agent Display
@@ -65,7 +67,9 @@ Participants will be splitted into teams of two or more peoples (one player is a
 **Additional requirements are the following:**
 - F# and Fable installed
 
-**Tip:**: check [fable samples](https://github.com/fable-compiler/fable2-samples).
+**Tip:**: 
+  - check [fable samples](https://github.com/fable-compiler/fable2-samples). 
+  - check `AgentDisplay` subfolder for a ready to go Elmish+React client
 
 **important:** 
   - The address and creadentials for  game server will be given when workshop starts.
