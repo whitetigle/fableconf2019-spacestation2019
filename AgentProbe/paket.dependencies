@@ -1,0 +1,9 @@
+source https://nuget.org/api/v2
+storage:none
+
+nuget Fable.Core
+nuget Fable.Fetch
+nuget Fable.Promise
+nuget Fable.Node
+nuget Thoth.Json
+nuget Thoth.Fetch
