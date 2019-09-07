@@ -31,7 +31,7 @@ The goal of the game is to locate and rescue the engineer locked in Space Statio
 ### Get Access To System
   - Try to find how to login
   - Try to find credentials 
-  - Login
+  - Login (find the command) using `{"command":"???";"user":"???";"pass":xxx}`
   - Get access key, retrieve list of available commands and start the probing (don’t forget to include ``accessKey`` in your messages)
 
 ### Prepare release
