@@ -27,7 +27,6 @@ A FableConf workshop by [François Nicaise/@thewhitetigle](https://twitter.com/t
 The goal of the game is to locate and rescue the engineer locked in Space Station 2019. We don’t know his/her name. We need to find a way to gather data about his/her whereabouts and unlock all the doors to make the release possible. 
 
 ## Missions
-Missions can be done in any order.
 
 ### Get Access To System
   - Try to find how to login
